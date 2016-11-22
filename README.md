@@ -2,7 +2,7 @@
 
 ## About this app
 ### Request access
-To request access to this application, please email tyler.nappy@hpe.com
+To request access to this application, please email havenondemand@hpe.com
 ### Overview
   Haven OnDemand offers advanced machine learning APIs for developers to connect, extract, index, analyze, and predict data. Combining these powerful APIs with Twilio's telephone calling services, businesses can extract key insights and metrics from call center recordings to better drive business strategy, marketing, and sales.
 ### How to use
